@@ -21,11 +21,11 @@ if __name__ == '__main__':
 
 @bot.event
 async def on_ready():
-   await bot.change_presence(status=discord.Status.idle, activity=discord.Game(name="Gros caca puant"))
+   await bot.change_presence(status=discord.Status.idle, activity=discord.Game(name="Garfiled Kart Deluxe"))
    print(bot.user.name + " est en ligne")
 
 # @bot.command()
 # async def ping(ctx):
 #    await ctx.send("Pong")
 
-bot.run("token ici")  
+bot.run("OTY2NzM5NDE0MjU0NDg1NTk0.YmGIPQ.2r0Iy9jatmiqiRL-bBsJdfeKgYw")  
